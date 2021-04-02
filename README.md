@@ -1,6 +1,7 @@
 # Simple debug draw 3D for Godot engine
 
 This addon adds an easy to use debug drawing to 3D scenes.
+![Example screenshot](screenshots/example.png)
 
 ------
 
